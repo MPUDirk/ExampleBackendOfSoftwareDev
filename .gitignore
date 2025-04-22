@@ -1,0 +1,9 @@
+.idea/
+.venv/
+
+*.log
+*.pid
+*.sock
+
+__pycache__/
+*.pyc
